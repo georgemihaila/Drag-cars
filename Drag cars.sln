@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drag_cars", "Drag cars\Drag_cars\Drag_cars.csproj", "{E7322050-5810-43AD-8813-273DBA988341}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Drag_carsContent", "Drag cars\Drag_carsContent\Drag_carsContent.contentproj", "{E5448195-B1F9-4F75-BC61-7906D49335F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7322050-5810-43AD-8813-273DBA988341}.Debug|x86.ActiveCfg = Debug|x86
+		{E7322050-5810-43AD-8813-273DBA988341}.Debug|x86.Build.0 = Debug|x86
+		{E7322050-5810-43AD-8813-273DBA988341}.Release|x86.ActiveCfg = Release|x86
+		{E7322050-5810-43AD-8813-273DBA988341}.Release|x86.Build.0 = Release|x86
+		{E5448195-B1F9-4F75-BC61-7906D49335F1}.Debug|x86.ActiveCfg = Debug|x86
+		{E5448195-B1F9-4F75-BC61-7906D49335F1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
